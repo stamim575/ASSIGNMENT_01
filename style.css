@@ -52,6 +52,7 @@ body {
   display: flex;
   margin-bottom: 100px;
   width: 100%;
+  background-image: url(images/shapes/Frame7.jpg);
 }
 .left_about {
   width: 50%;
@@ -164,6 +165,6 @@ body {
 }
 .footer h4 {
 }
-
 .footer h6 {
+  color: white;
 }
